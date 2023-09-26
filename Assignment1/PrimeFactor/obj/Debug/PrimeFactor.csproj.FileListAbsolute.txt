@@ -1,0 +1,8 @@
+D:\c#code\Assignment1\PrimeFactor\bin\Debug\PrimeFactor.exe.config
+D:\c#code\Assignment1\PrimeFactor\bin\Debug\PrimeFactor.exe
+D:\c#code\Assignment1\PrimeFactor\bin\Debug\PrimeFactor.pdb
+D:\c#code\Assignment1\PrimeFactor\obj\Debug\PrimeFactor.csproj.AssemblyReference.cache
+D:\c#code\Assignment1\PrimeFactor\obj\Debug\PrimeFactor.csproj.SuggestedBindingRedirects.cache
+D:\c#code\Assignment1\PrimeFactor\obj\Debug\PrimeFactor.csproj.CoreCompileInputs.cache
+D:\c#code\Assignment1\PrimeFactor\obj\Debug\PrimeFactor.exe
+D:\c#code\Assignment1\PrimeFactor\obj\Debug\PrimeFactor.pdb

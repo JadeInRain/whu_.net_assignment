@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactor", "PrimeFactor\PrimeFactor.csproj", "{FF0A16A6-6A14-447F-B6F1-C7DB99EBF1AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomCalculate", "RandomCalculate\RandomCalculate.csproj", "{F7A5512F-0741-47E6-A7C7-3D59F594A50B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0A16A6-6A14-447F-B6F1-C7DB99EBF1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0A16A6-6A14-447F-B6F1-C7DB99EBF1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0A16A6-6A14-447F-B6F1-C7DB99EBF1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0A16A6-6A14-447F-B6F1-C7DB99EBF1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A5512F-0741-47E6-A7C7-3D59F594A50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A5512F-0741-47E6-A7C7-3D59F594A50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A5512F-0741-47E6-A7C7-3D59F594A50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A5512F-0741-47E6-A7C7-3D59F594A50B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3727C0B-8274-415C-A3E9-203AC6A8DF21}
+	EndGlobalSection
+EndGlobal

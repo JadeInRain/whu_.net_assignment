@@ -1,0 +1,11 @@
+D:\c#code\Assignment1\RandomCalculate\bin\Debug\RandomCalculate.exe.config
+D:\c#code\Assignment1\RandomCalculate\bin\Debug\RandomCalculate.exe
+D:\c#code\Assignment1\RandomCalculate\bin\Debug\RandomCalculate.pdb
+D:\c#code\Assignment1\RandomCalculate\obj\Debug\RandomCalculate.csproj.AssemblyReference.cache
+D:\c#code\Assignment1\RandomCalculate\obj\Debug\RandomCalculate.csproj.SuggestedBindingRedirects.cache
+D:\c#code\Assignment1\RandomCalculate\obj\Debug\RandomCalculate.Form1.resources
+D:\c#code\Assignment1\RandomCalculate\obj\Debug\RandomCalculate.Properties.Resources.resources
+D:\c#code\Assignment1\RandomCalculate\obj\Debug\RandomCalculate.csproj.GenerateResource.cache
+D:\c#code\Assignment1\RandomCalculate\obj\Debug\RandomCalculate.csproj.CoreCompileInputs.cache
+D:\c#code\Assignment1\RandomCalculate\obj\Debug\RandomCalculate.exe
+D:\c#code\Assignment1\RandomCalculate\obj\Debug\RandomCalculate.pdb
